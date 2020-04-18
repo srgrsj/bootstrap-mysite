@@ -1,0 +1,10 @@
+@media (min-width:540px)
+{
+    .mr-sm-6 {
+        margin-right: 5rem !important
+    }
+    .mr-sm-7 {
+        margin-right: 7rem !important
+        
+    }
+}
